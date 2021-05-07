@@ -31,10 +31,17 @@
       "createdAt": "2021-06-06"
     },
     {
-      "messageId": "bNlumv_n",
-      "createdAt": "11:18:31 ",
+      "messageId": "36UKl5zX",
+      "createdAt": "11:35:15 ",
+      "userId": "xH0OKlCW",
+      "messageText": "Привет, Боб",
+      "senderName": "Aleks"
+    },
+    {
+      "messageId": "r2jwFThk",
+      "createdAt": "11:35:42 ",
       "userId": "MAtLL-ob",
-      "messageText": "фварвырпоыпрыопрыопроыврыоврывопрывопрывопрыворпыорыворыворывопрывопрыовпрыовпрыоврпоыврпоыврпоыврыврыврпоыврпоыврповыпоыврпоыврпоыврпоыврпыовпр",
+      "messageText": "Привет, Алекс",
       "senderName": "Bob"
     }
   ]

@@ -27,7 +27,7 @@ export const MessageListItem = ({ msg, removeMessage }) => {
 
   return (
     <div className={`message__items ${currentUser ? `message__right` : ``}`}>
-      {currentUser && <input value='X' className="message__trash" type="button" onClick={() => { handleRemoveMessage(messageId) }}></input>}
+      {currentUser && <input value='Удалить сообщение  X' className="message__trash" type="button" onClick={() => { handleRemoveMessage(messageId) }}></input>}
       <ul className={`message__item `}>
         <li className="message__date">Отправлено: {createdAt}</li>
         <li className="message__user">{senderName}</li>
