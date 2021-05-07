@@ -1,5 +1,3 @@
-/*Прикрутить БД!!!!!!*/
-
 const users = {
   1: { username: 'Alice', online: false },
   2: { username: 'Bob', online: false }
