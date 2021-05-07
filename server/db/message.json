@@ -1,0 +1,34 @@
+{
+  "message": [
+    {
+      "messageId": "1",
+      "userId": "1",
+      "senderName": " Bob",
+      "messageText": "Lorem ipsum",
+      "createdAtt": "2021-05-06"
+    },
+    {
+      "messageId": "2",
+      "userId": "2",
+      "senderName": " NeBob",
+      "messageText": "Lorem ipsum2",
+      "createdAtt": "2021-06-06"
+    }
+  ],
+  "messages": [
+    {
+      "messageId": "1",
+      "userId": "1",
+      "senderName": " Bob",
+      "messageText": "Lorem ipsum",
+      "createdAt": "2021-05-06"
+    },
+    {
+      "messageId": "2",
+      "userId": "2",
+      "senderName": " NeBob",
+      "messageText": "Lorem ipsum2",
+      "createdAt": "2021-06-06"
+    }
+  ]
+}
